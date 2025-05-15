@@ -1,0 +1,65 @@
+---
+title: "Marketing Analytics"
+format: html
+editor: visual
+---
+
+This section features both coursework and independent projects that reflect my experience using data to inform marketing decisions. My work blends statistical analysis, survey insights, and visual storytelling to uncover trends and guide strategy.
+
+---
+
+## Coffee Shop Perception Analysis (Class Project)
+
+In my Market Analysis and Control course, I worked on a project examining how customer perceptions of sanitation protocols varied across states during the COVID-19 pandemic, specifically focusing on major chain coffee shops.
+
+Using RStudio, I:
+- Cleaned and transformed survey data using `dplyr`  
+- Conducted independent-sample t-tests to compare safety perceptions between states  
+- Visualized results with `ggplot2` bar graphs and boxplots
+
+This project helped me connect real consumer behavior with data interpretation and understand how local policy and brand consistency affect customer trust.
+
+---
+
+## A/B Analysis for Instagram Content Themes
+
+As part of an independent case study, I reviewed post engagement data from a small retail business and created a simulated A/B test comparing two types of Instagram post styles: product demos vs. lifestyle photos.
+
+I analyzed:
+- Engagement metrics (likes, shares, and saves) across 3 weeks of sample posts  
+- Patterns in time of day, caption length, and post type  
+- Basic summary statistics and visual comparisons in R
+
+This helped me explore how data-backed decisions can refine a brand's visual strategy and build more consistent performance across social channels.
+
+---
+
+## Survey-Driven Persona Mapping
+
+I designed and analyzed a mock consumer survey to create customer personas for a hypothetical wellness brand. Questions covered purchase behavior, brand perception, and lifestyle preferences.
+
+Key steps included:
+- Coding and cleaning multiple-choice survey responses  
+- Segmenting users into groups based on behavioral patterns  
+- Drafting detailed persona summaries with visual charts
+
+This project showed how structured data collection can support targeted messaging, product development, and campaign alignment.
+
+---
+
+## Portfolio Website Performance Tracking
+
+As part of building this portfolio site, I established basic performance tracking strategies using mock data to simulate page visits, resume downloads, and link clicks.
+
+I created:
+- Line graphs to visualize visit frequency over time  
+- Funnel-style flow charts to simulate user behavior  
+- Summaries of which sections received the most interest
+
+This reinforced how web analytics supports digital branding and gave me practice applying analysis to content performance in a personal context.
+
+---
+
+## Summary
+
+Marketing analytics has allowed me to bridge technical skills with strategic thinking. From hypothesis testing to content engagement analysis, I’ve learned how to turn raw data into meaningful insights. I look forward to continuing to apply these tools in roles that require both curiosity and clarity.

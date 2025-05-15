@@ -1,0 +1,31 @@
+---
+title: "Cynthia Garcia"
+format: html
+editor: visual
+---
+
+<div style="text-align: center;">
+  <img src="images/cynthia-photo.jpg" width="300px">
+</div>
+
+I’m Cynthia Garcia, a Business Administration student with a concentration in Marketing at Cal Poly Pomona. This site serves as a portfolio of my academic and professional experience, with an emphasis on marketing analytics, digital strategy, and applied data analysis.
+
+## Background
+
+Through my coursework in Market Analysis and Control, I’ve developed a strong foundation in data-driven marketing. I’ve worked with real survey datasets to examine how consumer behavior varies across regions and industries, using tools such as RStudio, Quarto, and GitHub to organize and present findings in clear, professional formats.
+
+In addition to academic projects, I’ve contributed to freelance digital marketing efforts for small businesses and community organizations. These experiences helped me refine my approach to content creation, performance tracking, and strategic messaging across different platforms.
+
+## Technical Skills
+
+My work involves:
+- Cleaning and analyzing data using R (`dplyr`, `ggplot2`, `t.test`)  
+- Communicating insights through visualizations and Quarto presentations  
+- Building professional web content and portfolio materials using GitHub and RStudio  
+- Supporting digital campaigns through social content and branded visuals
+
+## Purpose
+
+This portfolio is designed to demonstrate my ability to merge data analysis with creative marketing work. Each section showcases different areas of focus, from market research projects to digital content strategy. My goal is to continue developing these skills in roles that value insight-driven planning and effective communication.
+
+Thank you for visiting.

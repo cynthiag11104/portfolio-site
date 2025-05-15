@@ -1,0 +1,51 @@
+---
+title: "Resume"
+format: html
+editor: visual
+---
+
+## Cynthia Garcia  
+**Business Administration – Marketing**  
+Cal Poly Pomona  
+Expected Graduation: May 2025  
+
+---
+
+### Education  
+**Bachelor of Science in Business Administration – Marketing**  
+Cal Poly Pomona, Pomona, CA  
+- Coursework includes Marketing Analytics, Consumer Behavior, Digital Strategy, and Market Analysis  
+- Dean’s List (2023–2024)
+
+---
+
+### Work Experience  
+**Marketing Intern**  
+NextGen Sports Agency – Los Angeles, CA  
+Jun 2024 – Aug 2024  
+- Assisted in social media content creation for athletes and events  
+- Tracked performance metrics using Instagram Insights and Canva  
+- Collaborated on influencer marketing campaigns  
+
+**Freelance Social Media Assistant**  
+Independent Contract – Chino Hills, CA  
+Feb 2023 – Dec 2023  
+- Managed weekly content and promotions for a local hair salon  
+- Created Reels and visual assets using Canva and CapCut  
+- Increased engagement by aligning posts with seasonal campaigns  
+
+**Youth Sports Marketing Support**  
+Flag Football Team – Ontario, CA  
+Aug 2022 – Nov 2022  
+- Designed flyers and highlight graphics  
+- Maintained Instagram updates for games and events  
+- Promoted registration and clinics through digital outreach
+
+---
+
+### Skills  
+- RStudio, Quarto, GitHub, Excel  
+- Data Wrangling and Visualization (`ggplot2`, `dplyr`)  
+- Social Media Strategy (Instagram, Canva, CapCut)  
+- Content Planning and Brand Messaging  
+- Written and Visual Communication
